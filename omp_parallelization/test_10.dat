@@ -1,0 +1,105 @@
+250000    # iterations 
+256     # resolution 
+0       # Algorithm 0=Jacobi
+10	0               # number of heat sources
+0.0  0.0  1.0  2.9    # (x,y), size temperature 
+0.5  1.0  1.0  2.8    # 
+0.0  0.0  1.0  3.5    # (x,y), size temperature 
+0.5  1.0  1.0  4.2    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    #  (x,y), size temperature 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    #  (x,y), size temperature 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    #  (x,y), size temperature 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    #  (x,y), size temperature 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    # 
+0.0  0.0  1.0  2.5    # (x,y), size temperature 
+0.5  1.0  1.0  2.5    #  (x,y), size temperature 
+
